@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "ba426045-ca3d-4ce2-a3ad-10244740f5f1"
+      }
+    },
+    "owner": "olehnadiein",
+    "slug": "weather",
+    "description": "weather App"
+  }
+}
