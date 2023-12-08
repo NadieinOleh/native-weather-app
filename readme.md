@@ -20,6 +20,8 @@ react-native-heroicons
 axios
 
 ## Screenshot
+<img src="[https://github.com/matvii1/bank-app/assets/101810764/20d6c721-6d7a-4287-a340-69b87cb80cdc](https://github.com/NadieinOleh/native-weather-app/blob/main/assets/screenShots/1jpg.jpg)"  width="180" />
+
 [screenShot1](https://github.com/NadieinOleh/native-weather-app/blob/main/assets/screenShots/1jpg.jpg)
 
 [screenShot2](https://github.com/NadieinOleh/native-weather-app/blob/main/assets/screenShots/2jpg.jpg)
