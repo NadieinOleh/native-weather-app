@@ -10,8 +10,11 @@ react-native-heroicons
 axios
 
 ## Screenshot
-[https://github.com/NadieinOleh/native-weather-app/assets/screenShots/1.jpg](https://github.com/NadieinOleh/native-weather-app/blob/main/assets/screenShots/1jpg.jpg)
-[https://github.com/NadieinOleh/native-weather-app/assets/screenShots/1.jpg](https://github.com/NadieinOleh/native-weather-app/blob/main/assets/screenShots/2jpg.jpg)
-[https://github.com/NadieinOleh/native-weather-app/assets/screenShots/1.jpg](https://github.com/NadieinOleh/native-weather-app/blob/main/assets/screenShots/3jpg.jpg)
-[https://github.com/NadieinOleh/native-weather-app/assets/screenShots/1.jpg](https://github.com/NadieinOleh/native-weather-app/blob/main/assets/screenShots/4jpg.jpg)
+[screenShot1](https://github.com/NadieinOleh/native-weather-app/blob/main/assets/screenShots/1jpg.jpg)
+
+[screenShot2](https://github.com/NadieinOleh/native-weather-app/blob/main/assets/screenShots/2jpg.jpg)
+
+[screenShot3](https://github.com/NadieinOleh/native-weather-app/blob/main/assets/screenShots/3jpg.jpg)
+
+[screenShot4](https://github.com/NadieinOleh/native-weather-app/blob/main/assets/screenShots/4jpg.jpg)
 
