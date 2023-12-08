@@ -9,7 +9,7 @@ react-native-dropdown-select-list
 react-native-heroicons
 axios
 
-<img src="https://github.com/NadieinOleh/native-weather-app/assets/screenShots/1.jpg" width="180" />
+[https://github.com/NadieinOleh/native-weather-app/assets/screenShots/1.jpg](https://github.com/NadieinOleh/native-weather-app/blob/main/assets/screenShots/1jpg.jpg)
 <img src="https://github.com/NadieinOleh/native-weather-app/assets/screenShots/2.jpg" width="180" />
 <img src="https://github.com/NadieinOleh/native-weather-app/assets/screenShots/3.jpg" width="180" />
 <img src="https://github.com/NadieinOleh/native-weather-app/assets/screenShots/4.jpg" width="180" />
