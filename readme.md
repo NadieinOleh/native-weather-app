@@ -21,12 +21,8 @@ axios
 
 ## Screenshot
 <img src="https://github.com/NadieinOleh/native-weather-app/blob/main/assets/screenShots/1jpg.jpg"  width="180" />
+<img src="https://github.com/NadieinOleh/native-weather-app/blob/main/assets/screenShots/2jpg.jpg"  width="180" />
+<img src="https://github.com/NadieinOleh/native-weather-app/blob/main/assets/screenShots/3jpg.jpg"  width="180" />
+<img src="https://github.com/NadieinOleh/native-weather-app/blob/main/assets/screenShots/4.jpg"  width="180" />
 
-[screenShot1](https://github.com/NadieinOleh/native-weather-app/blob/main/assets/screenShots/1jpg.jpg)
-
-[screenShot2](https://github.com/NadieinOleh/native-weather-app/blob/main/assets/screenShots/2jpg.jpg)
-
-[screenShot3](https://github.com/NadieinOleh/native-weather-app/blob/main/assets/screenShots/3jpg.jpg)
-
-[screenShot4](https://github.com/NadieinOleh/native-weather-app/blob/main/assets/screenShots/4.jpg)
 
