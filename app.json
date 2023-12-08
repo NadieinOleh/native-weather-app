@@ -1,12 +1,43 @@
 {
   "expo": {
+    "name": "weather",
+    "slug": "weather",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.olehnadiein.weather"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
     "extra": {
       "eas": {
-        "projectId": "ba426045-ca3d-4ce2-a3ad-10244740f5f1"
+        "projectId": "eaad6174-e32a-45c0-80a8-7b2a45d7208d"
       }
     },
     "owner": "olehnadiein",
-    "slug": "weather",
-    "description": "weather App"
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/4b41428e-8c68-4f08-b76a-0e72fdc0f74d"
+    }
   }
 }

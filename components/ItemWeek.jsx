@@ -12,7 +12,7 @@ const ItemWeek = ({ item }) => {
   return (
     <View style={styles.container}>
       <Image
-        source={weatherImages[item?.days?.condition?.text]}
+        source={weatherImages[item?.days?.condition?.text] === null ? '' : weatherImages[item?.days?.condition?.text]}
         style={styles.img}
         alt={item?.days?.condition?.text}
       />
